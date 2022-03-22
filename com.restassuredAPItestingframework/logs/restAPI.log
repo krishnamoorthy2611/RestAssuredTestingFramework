@@ -1,0 +1,618 @@
+2022-02-26 22:41:28 INFO  Sample Test:24 - *************Started SampleTestCase001*************
+  2022-02-26 22:41:33 INFO  Sample Test:34 - ****************Checking Response Body****************
+  2022-02-26 22:41:33 INFO  Sample Test:54 - **************Checking Response Time**************
+  2022-02-26 22:41:33 INFO  Sample Test:68 - ***************Status Line Verification Strated***********
+  2022-02-26 22:41:33 INFO  Sample Test:44 - **************Status Code verification Test Started***********
+  2022-02-26 22:41:33 INFO  Sample Test:46 - The status code is200
+  2022-02-26 22:41:33 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-26 22:43:16 INFO  Sample Test:24 - *************Started SampleTestCase001*************
+  2022-02-26 22:43:21 INFO  Sample Test:34 - ****************Checking Response Body****************
+  2022-02-26 22:43:21 INFO  Sample Test:54 - **************Checking Response Time**************
+  2022-02-26 22:43:21 INFO  Sample Test:56 - Response Time is2628
+  2022-02-26 22:43:21 INFO  Sample Test:68 - ***************Status Line Verification Strated***********
+  2022-02-26 22:43:21 INFO  Sample Test:44 - **************Status Code verification Test Started***********
+  2022-02-26 22:43:21 INFO  Sample Test:46 - The status code is200
+  2022-02-26 22:43:21 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-26 22:44:26 INFO  Sample Test:24 - *************Started SampleTestCase001*************
+  2022-02-26 22:44:33 INFO  Sample Test:34 - ****************Checking Response Body****************
+  2022-02-26 22:44:33 INFO  Sample Test:54 - **************Checking Response Time**************
+  2022-02-26 22:44:33 INFO  Sample Test:56 - Response Time is 3635
+  2022-02-26 22:44:33 WARN  Sample Test:58 - Response time is greater than 2000
+  2022-02-26 22:44:33 INFO  Sample Test:68 - ***************Status Line Verification Strated***********
+  2022-02-26 22:44:33 INFO  Sample Test:44 - **************Status Code verification Test Started***********
+  2022-02-26 22:44:33 INFO  Sample Test:46 - The status code is200
+  2022-02-26 22:44:33 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-26 22:51:05 INFO  Sample Test:29 - *************Started SampleTestCase001*************
+  2022-02-26 22:51:12 INFO  Sample Test:39 - ****************Checking Response Body****************
+  2022-02-26 22:51:12 INFO  Sample Test:59 - **************Checking Response Time**************
+  2022-02-26 22:51:12 INFO  Sample Test:61 - Response Time is 3443
+  2022-02-26 22:51:12 WARN  Sample Test:63 - Response time is greater than 2000
+  2022-02-26 22:51:12 INFO  Sample Test:73 - ***************Status Line Verification Strated***********
+  2022-02-26 22:51:12 INFO  Sample Test:49 - **************Status Code verification Test Started***********
+  2022-02-26 22:51:12 INFO  Sample Test:51 - The status code is200
+  2022-02-26 22:51:12 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-26 22:52:01 INFO  Sample Test:29 - *************Started SampleTestCase002*************
+  2022-02-26 22:52:07 INFO  Sample Test:39 - ****************Checking Response Body****************
+  2022-02-26 22:52:07 INFO  Sample Test:40 - io.restassured.internal.RestAssuredResponseImpl@2a65bb85
+  2022-02-26 22:52:07 INFO  Sample Test:60 - **************Checking Response Time**************
+  2022-02-26 22:52:07 INFO  Sample Test:62 - Response Time is 2871
+  2022-02-26 22:52:07 WARN  Sample Test:64 - Response time is greater than 2000
+  2022-02-26 22:52:07 INFO  Sample Test:74 - ***************Status Line Verification Strated***********
+  2022-02-26 22:52:07 INFO  Sample Test:50 - **************Status Code verification Test Started***********
+  2022-02-26 22:52:07 INFO  Sample Test:52 - The status code is200
+  2022-02-26 22:52:07 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-26 22:52:32 INFO  Sample Test:29 - *************Started SampleTestCase002*************
+  2022-02-26 22:52:38 INFO  Sample Test:39 - ****************Checking Response Body****************
+  2022-02-26 22:52:38 INFO  Sample Test:40 - io.restassured.internal.RestAssuredResponseImpl@4b85880b
+  2022-02-26 22:52:38 INFO  Sample Test:60 - **************Checking Response Time**************
+  2022-02-26 22:52:38 INFO  Sample Test:62 - Response Time is 2744
+  2022-02-26 22:52:38 WARN  Sample Test:64 - Response time is greater than 2000
+  2022-02-26 22:52:38 INFO  Sample Test:74 - ***************Status Line Verification Strated***********
+  2022-02-26 22:52:38 INFO  Sample Test:50 - **************Status Code verification Test Started***********
+  2022-02-26 22:52:38 INFO  Sample Test:52 - The status code is200
+  2022-02-26 22:52:38 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-26 22:53:10 INFO  Sample Test:29 - *************Started SampleTestCase002*************
+  2022-02-26 22:53:16 INFO  Sample Test:39 - ****************Checking Response Body****************
+  2022-02-26 22:53:16 INFO  Sample Test:40 - {"id":4146,"name":"Vaishno Kapoor","email":"vaishno_kapoor@wehner.info","gender":"female","status":"active"}
+  2022-02-26 22:53:16 INFO  Sample Test:60 - **************Checking Response Time**************
+  2022-02-26 22:53:16 INFO  Sample Test:62 - Response Time is 2698
+  2022-02-26 22:53:16 WARN  Sample Test:64 - Response time is greater than 2000
+  2022-02-26 22:53:16 INFO  Sample Test:74 - ***************Status Line Verification Strated***********
+  2022-02-26 22:53:16 INFO  Sample Test:50 - **************Status Code verification Test Started***********
+  2022-02-26 22:53:16 INFO  Sample Test:52 - The status code is200
+  2022-02-26 22:53:16 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-26 22:54:44 INFO  Sample Test:29 - *************Started SampleTestCase002*************
+  2022-02-26 22:54:49 INFO  Sample Test:39 - ****************Checking Response Body****************
+  2022-02-26 22:54:49 INFO  Sample Test:40 - {"id":4146,"name":"Vaishno Kapoor","email":"vaishno_kapoor@wehner.info","gender":"female","status":"active"}
+  2022-02-26 22:54:49 INFO  Sample Test:60 - **************Checking Response Time**************
+  2022-02-26 22:54:49 INFO  Sample Test:62 - Response Time is 2562
+  2022-02-26 22:54:49 WARN  Sample Test:64 - Response time is greater than 2000
+  2022-02-26 22:54:49 INFO  Sample Test:74 - ***************Status Line Verification Strated***********
+  2022-02-26 22:54:49 INFO  Sample Test:50 - **************Status Code verification Test Started***********
+  2022-02-26 22:54:49 INFO  Sample Test:52 - The status code is200
+  2022-02-26 22:54:49 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 14:17:58 INFO  Sample Test:34 - *************Started SamplePostTestCase002*************
+  2022-02-28 14:18:04 INFO  Sample Test:71 - ****************Checking Response Body****************
+  2022-02-28 14:18:04 INFO  Sample Test:92 - **************Checking Response Time**************
+  2022-02-28 14:18:04 INFO  Sample Test:106 - ***************Status Line Verification Strated***********
+  2022-02-28 14:18:04 INFO  Sample Test:82 - **************Status Code verification Test Started***********
+  2022-02-28 14:18:04 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 14:20:27 INFO  Sample Test:34 - *************Started SamplePostTestCase002*************
+  2022-02-28 14:21:23 INFO  Sample Test:70 - ****************Checking Response Body****************
+  2022-02-28 14:21:23 INFO  Sample Test:91 - **************Checking Response Time**************
+  2022-02-28 14:21:23 INFO  Sample Test:105 - ***************Status Line Verification Strated***********
+  2022-02-28 14:21:23 INFO  Sample Test:81 - **************Status Code verification Test Started***********
+  2022-02-28 14:21:23 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 14:21:55 INFO  Sample Test:34 - *************Started SamplePostTestCase002*************
+  2022-02-28 14:22:05 INFO  Sample Test:70 - ****************Checking Response Body****************
+  2022-02-28 14:24:24 INFO  Sample Test:34 - *************Started SamplePostTestCase002*************
+  2022-02-28 14:24:30 INFO  Sample Test:70 - ****************Checking Response Body****************
+  2022-02-28 14:24:30 INFO  Sample Test:71 - {"bookingid":22,"booking":{"firstname":"RamSpsnp","lastname":"jz","totalprice":154,"depositpaid":true,"bookingdates":{"checkin":"2022-05-10","checkout":"2022-05-23"},"additionalneeds":"lunch"}}
+  2022-02-28 14:24:30 INFO  Sample Test:91 - **************Checking Response Time**************
+  2022-02-28 14:24:30 INFO  Sample Test:93 - Response Time is 3604
+  2022-02-28 14:24:30 WARN  Sample Test:95 - Response time is greater than 2000
+  2022-02-28 14:24:30 INFO  Sample Test:105 - ***************Status Line Verification Strated***********
+  2022-02-28 14:24:30 INFO  Sample Test:81 - **************Status Code verification Test Started***********
+  2022-02-28 14:24:30 INFO  Sample Test:83 - The status code is200
+  2022-02-28 14:24:30 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 14:27:45 INFO  Sample Test:35 - *************Started SamplePostTestCase002*************
+  2022-02-28 14:27:51 INFO  Sample Test:71 - ****************Checking Response Body****************
+  2022-02-28 14:27:51 INFO  Sample Test:72 - {"bookingid":34,"booking":{"firstname":"RamOZryC","lastname":"OW","totalprice":0,"depositpaid":true,"bookingdates":{"checkin":"2022-05-10","checkout":"2022-05-23"},"additionalneeds":"lunch"}}
+  2022-02-28 14:27:51 INFO  Sample Test:92 - **************Checking Response Time**************
+  2022-02-28 14:27:51 INFO  Sample Test:94 - Response Time is 3591
+  2022-02-28 14:27:51 WARN  Sample Test:96 - Response time is greater than 2000
+  2022-02-28 14:27:51 INFO  Sample Test:106 - ***************Status Line Verification Strated***********
+  2022-02-28 14:27:51 INFO  Sample Test:82 - **************Status Code verification Test Started***********
+  2022-02-28 14:27:51 INFO  Sample Test:84 - The status code is200
+  2022-02-28 14:27:51 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 14:29:27 INFO  Sample Test:35 - *************Started SamplePostTestCase002*************
+  2022-02-28 14:29:33 INFO  Sample Test:71 - ****************Checking Response Body****************
+  2022-02-28 14:29:33 INFO  Sample Test:72 - {"bookingid":35,"booking":{"firstname":"RamVcAun","lastname":"mN","totalprice":0,"depositpaid":true,"bookingdates":{"checkin":"2022-05-10","checkout":"2022-05-23"},"additionalneeds":"dinner"}}
+  2022-02-28 14:29:33 INFO  Sample Test:92 - **************Checking Response Time**************
+  2022-02-28 14:29:33 INFO  Sample Test:94 - Response Time is 3808
+  2022-02-28 14:29:33 WARN  Sample Test:96 - Response time is greater than 2000
+  2022-02-28 14:29:33 INFO  Sample Test:106 - ***************Status Line Verification Strated***********
+  2022-02-28 14:29:33 INFO  Sample Test:82 - **************Status Code verification Test Started***********
+  2022-02-28 14:29:33 INFO  Sample Test:84 - The status code is200
+  2022-02-28 14:29:33 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 14:29:45 INFO  Sample Test:35 - *************Started SamplePostTestCase002*************
+  2022-02-28 14:29:51 INFO  Sample Test:71 - ****************Checking Response Body****************
+  2022-02-28 14:29:51 INFO  Sample Test:72 - {"bookingid":36,"booking":{"firstname":"RamlDEcq","lastname":"GS","totalprice":0,"depositpaid":true,"bookingdates":{"checkin":"2022-05-10","checkout":"2022-05-23"},"additionalneeds":"dinner"}}
+  2022-02-28 14:29:51 INFO  Sample Test:92 - **************Checking Response Time**************
+  2022-02-28 14:29:51 INFO  Sample Test:94 - Response Time is 3667
+  2022-02-28 14:29:51 WARN  Sample Test:96 - Response time is greater than 2000
+  2022-02-28 14:29:51 INFO  Sample Test:106 - ***************Status Line Verification Strated***********
+  2022-02-28 14:29:51 INFO  Sample Test:82 - **************Status Code verification Test Started***********
+  2022-02-28 14:29:51 INFO  Sample Test:84 - The status code is200
+  2022-02-28 14:29:51 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 14:31:36 INFO  Sample Test:35 - *************Started SamplePostTestCase002*************
+  2022-02-28 14:31:43 INFO  Sample Test:71 - ****************Checking Response Body****************
+  2022-02-28 14:31:43 INFO  Sample Test:72 - {"bookingid":67,"booking":{"firstname":"RamTWpqy","lastname":"Lf","totalprice":258,"depositpaid":true,"bookingdates":{"checkin":"2022-05-10","checkout":"2022-05-23"},"additionalneeds":"lunch"}}
+  2022-02-28 14:31:43 INFO  Sample Test:92 - **************Checking Response Time**************
+  2022-02-28 14:31:43 INFO  Sample Test:94 - Response Time is 4196
+  2022-02-28 14:31:43 WARN  Sample Test:96 - Response time is greater than 2000
+  2022-02-28 14:31:43 INFO  Sample Test:106 - ***************Status Line Verification Strated***********
+  2022-02-28 14:31:43 INFO  Sample Test:82 - **************Status Code verification Test Started***********
+  2022-02-28 14:31:43 INFO  Sample Test:84 - The status code is200
+  2022-02-28 14:31:43 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 14:31:59 INFO  Sample Test:35 - *************Started SamplePostTestCase002*************
+  2022-02-28 14:32:07 INFO  Sample Test:71 - ****************Checking Response Body****************
+  2022-02-28 14:32:07 INFO  Sample Test:72 - {"bookingid":72,"booking":{"firstname":"RammvRpw","lastname":"bp","totalprice":513,"depositpaid":true,"bookingdates":{"checkin":"2022-05-10","checkout":"2022-05-23"},"additionalneeds":"breakfast"}}
+  2022-02-28 14:32:07 INFO  Sample Test:92 - **************Checking Response Time**************
+  2022-02-28 14:32:07 INFO  Sample Test:94 - Response Time is 4467
+  2022-02-28 14:32:07 WARN  Sample Test:96 - Response time is greater than 2000
+  2022-02-28 14:32:07 INFO  Sample Test:106 - ***************Status Line Verification Strated***********
+  2022-02-28 14:32:07 INFO  Sample Test:82 - **************Status Code verification Test Started***********
+  2022-02-28 14:32:07 INFO  Sample Test:84 - The status code is200
+  2022-02-28 14:32:07 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 14:38:15 INFO  Sample Test:35 - *************Started SamplePostTestCase002*************
+  2022-02-28 14:38:32 INFO  Sample Test:71 - ****************Checking Response Body****************
+  2022-02-28 14:38:32 INFO  Sample Test:72 - {"bookingid":82,"booking":{"firstname":"Ramarmuk","lastname":"Pr","totalprice":946,"depositpaid":true,"bookingdates":{"checkin":"2022-05-10","checkout":"2022-05-23"},"additionalneeds":"breakfast"}}
+  2022-02-28 14:38:32 INFO  Sample Test:92 - **************Checking Response Time**************
+  2022-02-28 14:38:32 INFO  Sample Test:94 - Response Time is 3942
+  2022-02-28 14:38:32 WARN  Sample Test:96 - Response time is greater than 2000
+  2022-02-28 14:38:32 INFO  Sample Test:106 - ***************Status Line Verification Strated***********
+  2022-02-28 14:38:32 INFO  Sample Test:82 - **************Status Code verification Test Started***********
+  2022-02-28 14:38:32 INFO  Sample Test:84 - The status code is200
+  2022-02-28 14:38:32 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 14:40:46 INFO  Sample Test:35 - *************Started SamplePostTestCase002*************
+  2022-02-28 14:40:52 INFO  Sample Test:71 - ****************Checking Response Body****************
+  2022-02-28 14:40:52 INFO  Sample Test:72 - {"bookingid":16,"booking":{"firstname":"RamxCBBx","lastname":"ej","totalprice":819,"depositpaid":true,"bookingdates":{"checkin":"2022-05-10","checkout":"2022-05-23"},"additionalneeds":"dinner"}}
+  2022-02-28 14:40:52 INFO  Sample Test:92 - **************Checking Response Time**************
+  2022-02-28 14:40:52 INFO  Sample Test:94 - Response Time is 3580
+  2022-02-28 14:40:52 WARN  Sample Test:96 - Response time is greater than 2000
+  2022-02-28 14:40:52 INFO  Sample Test:106 - ***************Status Line Verification Strated***********
+  2022-02-28 14:40:52 INFO  Sample Test:82 - **************Status Code verification Test Started***********
+  2022-02-28 14:40:52 INFO  Sample Test:84 - The status code is200
+  2022-02-28 14:40:52 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 14:43:19 INFO  Sample Test:35 - *************Started SamplePostTestCase002*************
+  2022-02-28 14:43:24 INFO  Sample Test:71 - ****************Checking Response Body****************
+  2022-02-28 14:43:24 INFO  Sample Test:72 - {"bookingid":11,"booking":{"firstname":"RamXyOtz","lastname":"vL","totalprice":787,"depositpaid":true,"bookingdates":{"checkin":"2022-05-10","checkout":"2022-05-23"},"additionalneeds":"breakfast"}}
+  2022-02-28 14:43:24 INFO  Sample Test:92 - **************Checking Response Time**************
+  2022-02-28 14:43:24 INFO  Sample Test:94 - Response Time is 3583
+  2022-02-28 14:43:24 WARN  Sample Test:96 - Response time is greater than 2000
+  2022-02-28 14:43:24 INFO  Sample Test:106 - ***************Status Line Verification Strated***********
+  2022-02-28 14:43:24 INFO  Sample Test:82 - **************Status Code verification Test Started***********
+  2022-02-28 14:43:24 INFO  Sample Test:84 - The status code is200
+  2022-02-28 14:43:24 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 14:44:07 INFO  Sample Test:35 - *************Started SamplePostTestCase002*************
+  2022-02-28 14:44:13 INFO  Sample Test:71 - ****************Checking Response Body****************
+  2022-02-28 14:44:13 INFO  Sample Test:72 - {"bookingid":12,"booking":{"firstname":"RamPFCHS","lastname":"aG","totalprice":329,"depositpaid":true,"bookingdates":{"checkin":"2022-05-10","checkout":"2022-05-23"},"additionalneeds":"breakfast"}}
+  2022-02-28 14:44:13 INFO  Sample Test:92 - **************Checking Response Time**************
+  2022-02-28 14:44:13 INFO  Sample Test:94 - Response Time is 3930
+  2022-02-28 14:44:13 WARN  Sample Test:96 - Response time is greater than 2000
+  2022-02-28 14:44:13 INFO  Sample Test:106 - ***************Status Line Verification Strated***********
+  2022-02-28 14:44:13 INFO  Sample Test:82 - **************Status Code verification Test Started***********
+  2022-02-28 14:44:13 INFO  Sample Test:84 - The status code is200
+  2022-02-28 14:44:13 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 14:47:26 INFO  Sample Test:35 - *************Started SamplePostTestCase002*************
+  2022-02-28 14:47:32 INFO  Sample Test:71 - ****************Checking Response Body****************
+  2022-02-28 14:47:32 INFO  Sample Test:72 - {"bookingid":29,"booking":{"firstname":"RameGSll","lastname":"ql","totalprice":779,"depositpaid":true,"bookingdates":{"checkin":"2022-05-10","checkout":"2022-05-23"},"additionalneeds":"breakfast"}}
+  2022-02-28 14:47:32 INFO  Sample Test:93 - **************Checking Response Time**************
+  2022-02-28 14:47:32 INFO  Sample Test:95 - Response Time is 3646
+  2022-02-28 14:47:32 WARN  Sample Test:97 - Response time is greater than 2000
+  2022-02-28 14:47:32 INFO  Sample Test:107 - ***************Status Line Verification Strated***********
+  2022-02-28 14:47:32 INFO  Sample Test:83 - **************Status Code verification Test Started***********
+  2022-02-28 14:47:32 INFO  Sample Test:85 - The status code is200
+  2022-02-28 14:47:32 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 14:58:24 INFO  Sample Test:37 - *************Started SamplePostTestCase002*************
+  2022-02-28 14:58:31 INFO  Sample Test:76 - ****************Checking Response Body****************
+  2022-02-28 14:58:31 INFO  Sample Test:77 - Forbidden
+  2022-02-28 14:58:31 INFO  Sample Test:98 - **************Checking Response Time**************
+  2022-02-28 14:58:31 INFO  Sample Test:100 - Response Time is 3712
+  2022-02-28 14:58:31 WARN  Sample Test:102 - Response time is greater than 2000
+  2022-02-28 14:58:31 INFO  Sample Test:112 - ***************Status Line Verification Strated***********
+  2022-02-28 14:58:31 INFO  Sample Test:88 - **************Status Code verification Test Started***********
+  2022-02-28 14:58:31 INFO  Sample Test:90 - The status code is403
+  2022-02-28 14:58:31 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 15:10:15 INFO  Sample Test:37 - *************Started SamplePostTestCase002*************
+  2022-02-28 15:10:21 INFO  Sample Test:78 - ****************Checking Response Body****************
+  2022-02-28 15:10:21 INFO  Sample Test:79 - {"firstname":"RamakRhj","lastname":"yH","totalprice":604,"depositpaid":true,"bookingdates":{"checkin":"2022-05-10","checkout":"2022-05-23"},"additionalneeds":"lunch"}
+  2022-02-28 15:10:21 INFO  Sample Test:100 - **************Checking Response Time**************
+  2022-02-28 15:10:21 INFO  Sample Test:102 - Response Time is 3786
+  2022-02-28 15:10:21 WARN  Sample Test:104 - Response time is greater than 2000
+  2022-02-28 15:10:21 INFO  Sample Test:114 - ***************Status Line Verification Strated***********
+  2022-02-28 15:10:21 INFO  Sample Test:90 - **************Status Code verification Test Started***********
+  2022-02-28 15:10:21 INFO  Sample Test:92 - The status code is200
+  2022-02-28 15:10:21 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 15:11:03 INFO  Sample Test:37 - *************Started SamplePostTestCase002*************
+  2022-02-28 15:11:09 INFO  Sample Test:78 - ****************Checking Response Body****************
+  2022-02-28 15:11:09 INFO  Sample Test:79 - Forbidden
+  2022-02-28 15:11:09 INFO  Sample Test:100 - **************Checking Response Time**************
+  2022-02-28 15:11:09 INFO  Sample Test:102 - Response Time is 3678
+  2022-02-28 15:11:09 WARN  Sample Test:104 - Response time is greater than 2000
+  2022-02-28 15:11:09 INFO  Sample Test:114 - ***************Status Line Verification Strated***********
+  2022-02-28 15:11:09 INFO  Sample Test:90 - **************Status Code verification Test Started***********
+  2022-02-28 15:11:09 INFO  Sample Test:92 - The status code is403
+  2022-02-28 15:11:09 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 15:11:33 INFO  Sample Test:37 - *************Started SamplePostTestCase002*************
+  2022-02-28 15:11:39 INFO  Sample Test:78 - ****************Checking Response Body****************
+  2022-02-28 15:11:40 INFO  Sample Test:79 - Forbidden
+  2022-02-28 15:11:40 INFO  Sample Test:100 - **************Checking Response Time**************
+  2022-02-28 15:11:40 INFO  Sample Test:102 - Response Time is 3696
+  2022-02-28 15:11:40 WARN  Sample Test:104 - Response time is greater than 2000
+  2022-02-28 15:11:40 INFO  Sample Test:114 - ***************Status Line Verification Strated***********
+  2022-02-28 15:11:40 INFO  Sample Test:90 - **************Status Code verification Test Started***********
+  2022-02-28 15:11:40 INFO  Sample Test:92 - The status code is403
+  2022-02-28 15:11:40 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 15:12:21 INFO  Sample Test:37 - *************Started SamplePostTestCase002*************
+  2022-02-28 15:12:28 INFO  Sample Test:78 - ****************Checking Response Body****************
+  2022-02-28 15:12:28 INFO  Sample Test:79 - {"firstname":"RamMcmML","lastname":"Nq","totalprice":891,"depositpaid":true,"bookingdates":{"checkin":"2022-05-10","checkout":"2022-05-23"},"additionalneeds":"dinner"}
+  2022-02-28 15:12:28 INFO  Sample Test:100 - **************Checking Response Time**************
+  2022-02-28 15:12:28 INFO  Sample Test:102 - Response Time is 4216
+  2022-02-28 15:12:28 WARN  Sample Test:104 - Response time is greater than 2000
+  2022-02-28 15:12:28 INFO  Sample Test:114 - ***************Status Line Verification Strated***********
+  2022-02-28 15:12:28 INFO  Sample Test:90 - **************Status Code verification Test Started***********
+  2022-02-28 15:12:28 INFO  Sample Test:92 - The status code is200
+  2022-02-28 15:12:28 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 15:24:15 INFO  Sample Test:24 - *************Started SampleTestCase001*************
+  2022-02-28 15:24:20 INFO  Sample Test:34 - ****************Checking Response Body****************
+  2022-02-28 15:24:20 INFO  Sample Test:54 - **************Checking Response Time**************
+  2022-02-28 15:24:20 INFO  Sample Test:56 - Response Time is 2461
+  2022-02-28 15:24:20 WARN  Sample Test:58 - Response time is greater than 2000
+  2022-02-28 15:24:20 INFO  Sample Test:68 - ***************Status Line Verification Strated***********
+  2022-02-28 15:24:20 INFO  Sample Test:44 - **************Status Code verification Test Started***********
+  2022-02-28 15:24:20 INFO  Sample Test:46 - The status code is200
+  2022-02-28 15:24:20 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 15:45:00 INFO  Sample Test:30 - *************Started SampleDeleteTestCase00*************
+  2022-02-28 15:45:07 INFO  Sample Test:49 - **************Status Code verification Test Started***********
+  2022-02-28 15:45:07 INFO  Sample Test:51 - The status code is200
+  2022-02-28 15:45:07 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 15:45:45 INFO  Sample Test:30 - *************Started SampleDeleteTestCase00*************
+  2022-02-28 15:47:37 INFO  Sample Test:30 - *************Started SampleDeleteTestCase00*************
+  2022-02-28 15:47:44 INFO  Sample Test:49 - **************Status Code verification Test Started***********
+  2022-02-28 15:47:44 INFO  Sample Test:51 - The status code is200
+  2022-02-28 15:47:44 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 15:48:15 INFO  Sample Test:30 - *************Started SampleDeleteTestCase00*************
+  2022-02-28 15:48:22 INFO  Sample Test:50 - **************Status Code verification Test Started***********
+  2022-02-28 15:48:22 INFO  Sample Test:52 - The status code is200
+  2022-02-28 15:48:22 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 15:55:46 INFO  Sample Test:30 - *************Started SampleDeleteTestCase00*************
+  2022-02-28 15:55:54 INFO  Sample Test:56 - *********************Response verificaion Starred***********
+  2022-02-28 15:55:54 INFO  Sample Test:79 - **************Checking Response Time**************
+  2022-02-28 15:55:54 INFO  Sample Test:81 - Response Time is 1398
+  2022-02-28 15:55:54 INFO  Sample Test:93 - ***************Status Line Verification Strated***********
+  2022-02-28 15:55:54 INFO  Sample Test:69 - **************Status Code verification Test Started***********
+  2022-02-28 15:55:54 INFO  Sample Test:71 - The status code is404
+  2022-02-28 15:55:54 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 15:57:03 INFO  Sample Test:30 - *************Started SampleDeleteTestCase00*************
+  2022-02-28 15:57:11 INFO  Sample Test:56 - *********************Response verificaion Starred***********
+  2022-02-28 15:57:11 INFO  Sample Test:79 - **************Checking Response Time**************
+  2022-02-28 15:57:11 INFO  Sample Test:81 - Response Time is 1423
+  2022-02-28 15:57:11 INFO  Sample Test:93 - ***************Status Line Verification Strated***********
+  2022-02-28 15:57:11 INFO  Sample Test:69 - **************Status Code verification Test Started***********
+  2022-02-28 15:57:11 INFO  Sample Test:71 - The status code is201
+  2022-02-28 15:57:11 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 15:58:00 INFO  Sample Test:30 - *************Started SampleDeleteTestCase00*************
+  2022-02-28 15:58:08 INFO  Sample Test:56 - *********************Response verificaion Starred***********
+  2022-02-28 15:58:08 INFO  Sample Test:79 - **************Checking Response Time**************
+  2022-02-28 15:58:08 INFO  Sample Test:81 - Response Time is 1470
+  2022-02-28 15:58:08 INFO  Sample Test:93 - ***************Status Line Verification Strated***********
+  2022-02-28 15:58:08 INFO  Sample Test:69 - **************Status Code verification Test Started***********
+  2022-02-28 15:58:08 INFO  Sample Test:71 - The status code is201
+  2022-02-28 15:58:08 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 15:58:35 INFO  Sample Test:30 - *************Started SampleDeleteTestCase00*************
+  2022-02-28 15:58:43 INFO  Sample Test:56 - *********************Response verificaion Starred***********
+  2022-02-28 15:58:43 INFO  Sample Test:79 - **************Checking Response Time**************
+  2022-02-28 15:58:43 INFO  Sample Test:81 - Response Time is 1435
+  2022-02-28 15:58:43 INFO  Sample Test:93 - ***************Status Line Verification Strated***********
+  2022-02-28 15:58:43 INFO  Sample Test:69 - **************Status Code verification Test Started***********
+  2022-02-28 15:58:43 INFO  Sample Test:71 - The status code is201
+  2022-02-28 15:58:43 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 15:58:55 INFO  Sample Test:30 - *************Started SampleDeleteTestCase00*************
+  2022-02-28 15:59:04 INFO  Sample Test:56 - *********************Response verificaion Starred***********
+  2022-02-28 15:59:04 INFO  Sample Test:79 - **************Checking Response Time**************
+  2022-02-28 15:59:04 INFO  Sample Test:81 - Response Time is 1462
+  2022-02-28 15:59:04 INFO  Sample Test:93 - ***************Status Line Verification Strated***********
+  2022-02-28 15:59:04 INFO  Sample Test:69 - **************Status Code verification Test Started***********
+  2022-02-28 15:59:04 INFO  Sample Test:71 - The status code is201
+  2022-02-28 15:59:04 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 15:59:19 INFO  Sample Test:30 - *************Started SampleDeleteTestCase00*************
+  2022-02-28 15:59:27 INFO  Sample Test:56 - *********************Response verificaion Starred***********
+  2022-02-28 15:59:27 INFO  Sample Test:79 - **************Checking Response Time**************
+  2022-02-28 15:59:27 INFO  Sample Test:81 - Response Time is 1504
+  2022-02-28 15:59:27 INFO  Sample Test:93 - ***************Status Line Verification Strated***********
+  2022-02-28 15:59:27 INFO  Sample Test:69 - **************Status Code verification Test Started***********
+  2022-02-28 15:59:27 INFO  Sample Test:71 - The status code is201
+  2022-02-28 15:59:27 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 16:09:30 INFO  Sample Test:24 - *************Started SampleTestCase001*************
+  2022-02-28 16:09:33 INFO  Sample Test:34 - ****************Checking Response Body****************
+  2022-02-28 16:09:33 INFO  Sample Test:54 - **************Checking Response Time**************
+  2022-02-28 16:09:33 INFO  Sample Test:56 - Response Time is 2031
+  2022-02-28 16:09:33 WARN  Sample Test:58 - Response time is greater than 2000
+  2022-02-28 16:09:34 INFO  Sample Test:68 - ***************Status Line Verification Strated***********
+  2022-02-28 16:09:34 INFO  Sample Test:44 - **************Status Code verification Test Started***********
+  2022-02-28 16:09:34 INFO  Sample Test:46 - The status code is200
+  2022-02-28 16:09:34 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 16:09:34 INFO  Sample Test:35 - *************Started SamplePostTestCase002*************
+  2022-02-28 16:09:35 INFO  Sample Test:71 - ****************Checking Response Body****************
+  2022-02-28 16:09:35 INFO  Sample Test:72 - {"bookingid":34,"booking":{"firstname":"RamNyBeh","lastname":"tX","totalprice":84,"depositpaid":true,"bookingdates":{"checkin":"2022-05-10","checkout":"2022-05-23"},"additionalneeds":"breakfast"}}
+  2022-02-28 16:09:35 INFO  Sample Test:93 - **************Checking Response Time**************
+  2022-02-28 16:09:35 INFO  Sample Test:95 - Response Time is 1504
+  2022-02-28 16:09:35 INFO  Sample Test:107 - ***************Status Line Verification Strated***********
+  2022-02-28 16:09:35 INFO  Sample Test:83 - **************Status Code verification Test Started***********
+  2022-02-28 16:09:35 INFO  Sample Test:85 - The status code is200
+  2022-02-28 16:09:35 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 16:09:35 INFO  Sample Test:37 - *************Started SamplePutTestCase003*************
+  2022-02-28 16:09:37 INFO  Sample Test:78 - ****************Checking Response Body****************
+  2022-02-28 16:09:37 INFO  Sample Test:79 - {"firstname":"RamPcDPF","lastname":"LL","totalprice":591,"depositpaid":true,"bookingdates":{"checkin":"2022-05-10","checkout":"2022-05-23"},"additionalneeds":"dinner"}
+  2022-02-28 16:09:37 INFO  Sample Test:100 - **************Checking Response Time**************
+  2022-02-28 16:09:37 INFO  Sample Test:102 - Response Time is 1381
+  2022-02-28 16:09:37 INFO  Sample Test:114 - ***************Status Line Verification Strated***********
+  2022-02-28 16:09:37 INFO  Sample Test:90 - **************Status Code verification Test Started***********
+  2022-02-28 16:09:37 INFO  Sample Test:92 - The status code is200
+  2022-02-28 16:09:37 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 16:09:37 INFO  Sample Test:30 - *************Started SampleDeleteTestCase00*************
+  2022-02-28 16:09:41 INFO  Sample Test:56 - *********************Response verificaion Starred***********
+  2022-02-28 16:09:41 INFO  Sample Test:78 - **************Checking Response Time**************
+  2022-02-28 16:09:41 INFO  Sample Test:80 - Response Time is 1448
+  2022-02-28 16:09:41 INFO  Sample Test:92 - ***************Status Line Verification Strated***********
+  2022-02-28 16:09:41 INFO  Sample Test:68 - **************Status Code verification Test Started***********
+  2022-02-28 16:09:41 INFO  Sample Test:70 - The status code is201
+  2022-02-28 16:09:41 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 16:10:29 INFO  Sample Test:24 - *************Started SampleTestCase001*************
+  2022-02-28 16:10:32 INFO  Sample Test:34 - ****************Checking Response Body****************
+  2022-02-28 16:10:32 INFO  Sample Test:54 - **************Checking Response Time**************
+  2022-02-28 16:10:32 INFO  Sample Test:56 - Response Time is 1977
+  2022-02-28 16:10:32 INFO  Sample Test:68 - ***************Status Line Verification Strated***********
+  2022-02-28 16:10:32 INFO  Sample Test:44 - **************Status Code verification Test Started***********
+  2022-02-28 16:10:32 INFO  Sample Test:46 - The status code is200
+  2022-02-28 16:10:32 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 16:10:32 INFO  Sample Test:35 - *************Started SamplePostTestCase002*************
+  2022-02-28 16:10:34 INFO  Sample Test:71 - ****************Checking Response Body****************
+  2022-02-28 16:10:34 INFO  Sample Test:72 - {"bookingid":35,"booking":{"firstname":"RamMjUaQ","lastname":"tN","totalprice":245,"depositpaid":true,"bookingdates":{"checkin":"2022-05-10","checkout":"2022-05-23"},"additionalneeds":"breakfast"}}
+  2022-02-28 16:10:34 INFO  Sample Test:93 - **************Checking Response Time**************
+  2022-02-28 16:10:34 INFO  Sample Test:95 - Response Time is 1510
+  2022-02-28 16:10:34 INFO  Sample Test:107 - ***************Status Line Verification Strated***********
+  2022-02-28 16:10:34 INFO  Sample Test:83 - **************Status Code verification Test Started***********
+  2022-02-28 16:10:34 INFO  Sample Test:85 - The status code is200
+  2022-02-28 16:10:34 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 16:10:34 INFO  Sample Test:37 - *************Started SamplePutTestCase003*************
+  2022-02-28 16:10:36 INFO  Sample Test:78 - ****************Checking Response Body****************
+  2022-02-28 16:10:36 INFO  Sample Test:79 - {"firstname":"RamnTaTk","lastname":"YJ","totalprice":30,"depositpaid":true,"bookingdates":{"checkin":"2022-05-10","checkout":"2022-05-23"},"additionalneeds":"lunch"}
+  2022-02-28 16:10:36 INFO  Sample Test:100 - **************Checking Response Time**************
+  2022-02-28 16:10:36 INFO  Sample Test:102 - Response Time is 1412
+  2022-02-28 16:10:36 INFO  Sample Test:114 - ***************Status Line Verification Strated***********
+  2022-02-28 16:10:36 INFO  Sample Test:90 - **************Status Code verification Test Started***********
+  2022-02-28 16:10:36 INFO  Sample Test:92 - The status code is200
+  2022-02-28 16:10:36 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 16:10:36 INFO  Sample Test:30 - *************Started SampleDeleteTestCase004*************
+  2022-02-28 16:10:40 INFO  Sample Test:56 - *********************Response verificaion Starred***********
+  2022-02-28 16:10:40 INFO  Sample Test:78 - **************Checking Response Time**************
+  2022-02-28 16:10:40 INFO  Sample Test:80 - Response Time is 1449
+  2022-02-28 16:10:40 INFO  Sample Test:92 - ***************Status Line Verification Strated***********
+  2022-02-28 16:10:40 INFO  Sample Test:68 - **************Status Code verification Test Started***********
+  2022-02-28 16:10:40 INFO  Sample Test:70 - The status code is201
+  2022-02-28 16:10:40 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 16:18:50 INFO  Sample Test:24 - *************Started SampleTestCase001*************
+  2022-02-28 16:18:54 INFO  Sample Test:34 - ****************Checking Response Body****************
+  2022-02-28 16:18:54 INFO  Sample Test:54 - **************Checking Response Time**************
+  2022-02-28 16:18:54 INFO  Sample Test:56 - Response Time is 2100
+  2022-02-28 16:18:54 WARN  Sample Test:58 - Response time is greater than 2000
+  2022-02-28 16:18:54 INFO  Sample Test:68 - ***************Status Line Verification Strated***********
+  2022-02-28 16:18:54 INFO  Sample Test:44 - **************Status Code verification Test Started***********
+  2022-02-28 16:18:54 INFO  Sample Test:46 - The status code is200
+  2022-02-28 16:18:54 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 16:18:54 INFO  Sample Test:35 - *************Started SamplePostTestCase002*************
+  2022-02-28 16:18:56 INFO  Sample Test:71 - ****************Checking Response Body****************
+  2022-02-28 16:18:56 INFO  Sample Test:72 - {"bookingid":23,"booking":{"firstname":"RamwHnNF","lastname":"zD","totalprice":410,"depositpaid":true,"bookingdates":{"checkin":"2022-05-10","checkout":"2022-05-23"},"additionalneeds":"lunch"}}
+  2022-02-28 16:18:56 INFO  Sample Test:93 - **************Checking Response Time**************
+  2022-02-28 16:18:56 INFO  Sample Test:95 - Response Time is 1458
+  2022-02-28 16:18:56 INFO  Sample Test:107 - ***************Status Line Verification Strated***********
+  2022-02-28 16:18:56 INFO  Sample Test:83 - **************Status Code verification Test Started***********
+  2022-02-28 16:18:56 INFO  Sample Test:85 - The status code is200
+  2022-02-28 16:18:56 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 16:18:56 INFO  Sample Test:37 - *************Started SamplePutTestCase003*************
+  2022-02-28 16:18:57 INFO  Sample Test:78 - ****************Checking Response Body****************
+  2022-02-28 16:18:57 INFO  Sample Test:79 - Forbidden
+  2022-02-28 16:18:57 INFO  Sample Test:100 - **************Checking Response Time**************
+  2022-02-28 16:18:57 INFO  Sample Test:102 - Response Time is 1442
+  2022-02-28 16:18:57 INFO  Sample Test:114 - ***************Status Line Verification Strated***********
+  2022-02-28 16:18:57 INFO  Sample Test:90 - **************Status Code verification Test Started***********
+  2022-02-28 16:18:57 INFO  Sample Test:92 - The status code is403
+  2022-02-28 16:18:57 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 16:18:57 INFO  Sample Test:30 - *************Started SampleDeleteTestCase004*************
+  2022-02-28 16:19:01 INFO  Sample Test:56 - *********************Response verificaion Starred***********
+  2022-02-28 16:19:01 INFO  Sample Test:78 - **************Checking Response Time**************
+  2022-02-28 16:19:01 INFO  Sample Test:80 - Response Time is 1440
+  2022-02-28 16:19:01 INFO  Sample Test:92 - ***************Status Line Verification Strated***********
+  2022-02-28 16:19:02 INFO  Sample Test:68 - **************Status Code verification Test Started***********
+  2022-02-28 16:19:02 INFO  Sample Test:70 - The status code is403
+  2022-02-28 16:19:02 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 16:19:36 INFO  Sample Test:24 - *************Started SampleTestCase001*************
+  2022-02-28 16:19:40 INFO  Sample Test:34 - ****************Checking Response Body****************
+  2022-02-28 16:19:40 INFO  Sample Test:54 - **************Checking Response Time**************
+  2022-02-28 16:19:40 INFO  Sample Test:56 - Response Time is 2266
+  2022-02-28 16:19:40 WARN  Sample Test:58 - Response time is greater than 2000
+  2022-02-28 16:19:40 INFO  Sample Test:68 - ***************Status Line Verification Strated***********
+  2022-02-28 16:19:40 INFO  Sample Test:44 - **************Status Code verification Test Started***********
+  2022-02-28 16:19:40 INFO  Sample Test:46 - The status code is200
+  2022-02-28 16:19:40 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 16:19:40 INFO  Sample Test:35 - *************Started SamplePostTestCase002*************
+  2022-02-28 16:19:42 INFO  Sample Test:71 - ****************Checking Response Body****************
+  2022-02-28 16:19:42 INFO  Sample Test:72 - {"bookingid":25,"booking":{"firstname":"RamTbGDB","lastname":"eH","totalprice":356,"depositpaid":true,"bookingdates":{"checkin":"2022-05-10","checkout":"2022-05-23"},"additionalneeds":"dinner"}}
+  2022-02-28 16:19:42 INFO  Sample Test:93 - **************Checking Response Time**************
+  2022-02-28 16:19:42 INFO  Sample Test:95 - Response Time is 1599
+  2022-02-28 16:19:42 INFO  Sample Test:107 - ***************Status Line Verification Strated***********
+  2022-02-28 16:19:42 INFO  Sample Test:83 - **************Status Code verification Test Started***********
+  2022-02-28 16:19:42 INFO  Sample Test:85 - The status code is200
+  2022-02-28 16:19:42 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 16:19:42 INFO  Sample Test:37 - *************Started SamplePutTestCase003*************
+  2022-02-28 16:19:43 INFO  Sample Test:78 - ****************Checking Response Body****************
+  2022-02-28 16:19:43 INFO  Sample Test:79 - {"firstname":"RamVEzuI","lastname":"tp","totalprice":176,"depositpaid":true,"bookingdates":{"checkin":"2022-05-10","checkout":"2022-05-23"},"additionalneeds":"lunch"}
+  2022-02-28 16:19:44 INFO  Sample Test:100 - **************Checking Response Time**************
+  2022-02-28 16:19:44 INFO  Sample Test:102 - Response Time is 1427
+  2022-02-28 16:19:44 INFO  Sample Test:114 - ***************Status Line Verification Strated***********
+  2022-02-28 16:19:44 INFO  Sample Test:90 - **************Status Code verification Test Started***********
+  2022-02-28 16:19:44 INFO  Sample Test:92 - The status code is200
+  2022-02-28 16:19:44 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-02-28 16:19:44 INFO  Sample Test:30 - *************Started SampleDeleteTestCase004*************
+  2022-02-28 16:19:48 INFO  Sample Test:56 - *********************Response verificaion Starred***********
+  2022-02-28 16:19:48 INFO  Sample Test:78 - **************Checking Response Time**************
+  2022-02-28 16:19:48 INFO  Sample Test:80 - Response Time is 1426
+  2022-02-28 16:19:48 INFO  Sample Test:92 - ***************Status Line Verification Strated***********
+  2022-02-28 16:19:48 INFO  Sample Test:68 - **************Status Code verification Test Started***********
+  2022-02-28 16:19:48 INFO  Sample Test:70 - The status code is201
+  2022-02-28 16:19:48 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-03-10 12:11:47 INFO  Sample Test:24 - *************Started SampleTestCase001*************
+  2022-03-10 12:11:52 INFO  Sample Test:34 - ****************Checking Response Body****************
+  2022-03-10 12:11:52 INFO  Sample Test:54 - **************Checking Response Time**************
+  2022-03-10 12:11:52 INFO  Sample Test:56 - Response Time is 2364
+  2022-03-10 12:11:52 WARN  Sample Test:58 - Response time is greater than 2000
+  2022-03-10 12:11:52 INFO  Sample Test:68 - ***************Status Line Verification Strated***********
+  2022-03-10 12:11:52 INFO  Sample Test:44 - **************Status Code verification Test Started***********
+  2022-03-10 12:11:52 INFO  Sample Test:46 - The status code is200
+  2022-03-10 12:11:52 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-03-10 12:11:52 INFO  Sample Test:35 - *************Started SamplePostTestCase002*************
+  2022-03-10 12:11:54 INFO  Sample Test:71 - ****************Checking Response Body****************
+  2022-03-10 12:11:54 INFO  Sample Test:72 - {"bookingid":11,"booking":{"firstname":"RamQbEjH","lastname":"Ju","totalprice":845,"depositpaid":true,"bookingdates":{"checkin":"2022-05-10","checkout":"2022-05-23"},"additionalneeds":"breakfast"}}
+  2022-03-10 12:11:54 INFO  Sample Test:93 - **************Checking Response Time**************
+  2022-03-10 12:11:54 INFO  Sample Test:95 - Response Time is 1676
+  2022-03-10 12:11:54 INFO  Sample Test:107 - ***************Status Line Verification Strated***********
+  2022-03-10 12:11:54 INFO  Sample Test:83 - **************Status Code verification Test Started***********
+  2022-03-10 12:11:54 INFO  Sample Test:85 - The status code is200
+  2022-03-10 12:11:54 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-03-10 12:11:54 INFO  Sample Test:37 - *************Started SamplePutTestCase003*************
+  2022-03-10 12:11:55 INFO  Sample Test:78 - ****************Checking Response Body****************
+  2022-03-10 12:11:55 INFO  Sample Test:79 - Forbidden
+  2022-03-10 12:11:55 INFO  Sample Test:100 - **************Checking Response Time**************
+  2022-03-10 12:11:55 INFO  Sample Test:102 - Response Time is 1426
+  2022-03-10 12:11:55 INFO  Sample Test:114 - ***************Status Line Verification Strated***********
+  2022-03-10 12:11:55 INFO  Sample Test:90 - **************Status Code verification Test Started***********
+  2022-03-10 12:11:55 INFO  Sample Test:92 - The status code is403
+  2022-03-10 12:11:55 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-03-10 12:11:55 INFO  Sample Test:30 - *************Started SampleDeleteTestCase004*************
+  2022-03-10 12:12:00 INFO  Sample Test:56 - *********************Response verificaion Starred***********
+  2022-03-10 12:12:00 INFO  Sample Test:78 - **************Checking Response Time**************
+  2022-03-10 12:12:00 INFO  Sample Test:80 - Response Time is 1503
+  2022-03-10 12:12:00 INFO  Sample Test:92 - ***************Status Line Verification Strated***********
+  2022-03-10 12:12:00 INFO  Sample Test:68 - **************Status Code verification Test Started***********
+  2022-03-10 12:12:00 INFO  Sample Test:70 - The status code is403
+  2022-03-10 12:12:00 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-03-10 12:13:02 INFO  Sample Test:24 - *************Started SampleTestCase001*************
+  2022-03-10 12:13:06 INFO  Sample Test:34 - ****************Checking Response Body****************
+  2022-03-10 12:13:06 INFO  Sample Test:54 - **************Checking Response Time**************
+  2022-03-10 12:13:06 INFO  Sample Test:56 - Response Time is 2198
+  2022-03-10 12:13:06 WARN  Sample Test:58 - Response time is greater than 2000
+  2022-03-10 12:13:06 INFO  Sample Test:68 - ***************Status Line Verification Strated***********
+  2022-03-10 12:13:06 INFO  Sample Test:44 - **************Status Code verification Test Started***********
+  2022-03-10 12:13:06 INFO  Sample Test:46 - The status code is200
+  2022-03-10 12:13:06 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-03-14 17:17:36 INFO  Sample Test:24 - *************Started SampleTestCase001*************
+  2022-03-14 17:17:43 INFO  Sample Test:34 - ****************Checking Response Body****************
+  2022-03-14 17:17:43 INFO  Sample Test:54 - **************Checking Response Time**************
+  2022-03-14 17:17:43 INFO  Sample Test:56 - Response Time is 3829
+  2022-03-14 17:17:43 WARN  Sample Test:58 - Response time is greater than 2000
+  2022-03-14 17:17:43 INFO  Sample Test:68 - ***************Status Line Verification Strated***********
+  2022-03-14 17:17:43 INFO  Sample Test:44 - **************Status Code verification Test Started***********
+  2022-03-14 17:17:43 INFO  Sample Test:46 - The status code is200
+  2022-03-14 17:17:43 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-03-14 17:26:28 INFO  Sample Test:24 - *************Started SampleTestCase001*************
+  2022-03-14 17:26:35 INFO  Sample Test:34 - ****************Checking Response Body****************
+  2022-03-14 17:26:35 INFO  Sample Test:54 - **************Checking Response Time**************
+  2022-03-14 17:26:35 INFO  Sample Test:56 - Response Time is 3318
+  2022-03-14 17:26:35 WARN  Sample Test:58 - Response time is greater than 2000
+  2022-03-14 17:26:35 INFO  Sample Test:68 - ***************Status Line Verification Strated***********
+  2022-03-14 17:26:35 INFO  Sample Test:44 - **************Status Code verification Test Started***********
+  2022-03-14 17:26:35 INFO  Sample Test:46 - The status code is200
+  2022-03-14 17:26:35 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-03-14 17:28:02 INFO  Sample Test:24 - *************Started SampleTestCase001*************
+  2022-03-14 17:28:08 INFO  Sample Test:34 - ****************Checking Response Body****************
+  2022-03-14 17:28:08 INFO  Sample Test:54 - **************Checking Response Time**************
+  2022-03-14 17:28:08 INFO  Sample Test:56 - Response Time is 3067
+  2022-03-14 17:28:08 WARN  Sample Test:58 - Response time is greater than 2000
+  2022-03-14 17:28:08 INFO  Sample Test:68 - ***************Status Line Verification Strated***********
+  2022-03-14 17:28:08 INFO  Sample Test:44 - **************Status Code verification Test Started***********
+  2022-03-14 17:28:08 INFO  Sample Test:46 - The status code is200
+  2022-03-14 17:28:08 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-03-14 17:28:30 INFO  Sample Test:24 - *************Started SampleTestCase001*************
+  2022-03-14 17:28:37 INFO  Sample Test:34 - ****************Checking Response Body****************
+  2022-03-14 17:28:37 INFO  Sample Test:54 - **************Checking Response Time**************
+  2022-03-14 17:28:37 INFO  Sample Test:56 - Response Time is 3531
+  2022-03-14 17:28:37 WARN  Sample Test:58 - Response time is greater than 2000
+  2022-03-14 17:28:37 INFO  Sample Test:68 - ***************Status Line Verification Strated***********
+  2022-03-14 17:28:37 INFO  Sample Test:44 - **************Status Code verification Test Started***********
+  2022-03-14 17:28:37 INFO  Sample Test:46 - The status code is200
+  2022-03-14 17:28:37 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-03-14 17:39:52 INFO  Sample Test:24 - *************Started SampleTestCase001*************
+  2022-03-14 17:39:57 INFO  Sample Test:34 - ****************Checking Response Body****************
+  2022-03-14 17:39:57 INFO  Sample Test:54 - **************Checking Response Time**************
+  2022-03-14 17:39:57 INFO  Sample Test:56 - Response Time is 2447
+  2022-03-14 17:39:57 WARN  Sample Test:58 - Response time is greater than 2000
+  2022-03-14 17:39:57 INFO  Sample Test:68 - ***************Status Line Verification Strated***********
+  2022-03-14 17:39:57 INFO  Sample Test:44 - **************Status Code verification Test Started***********
+  2022-03-14 17:39:57 INFO  Sample Test:46 - The status code is200
+  2022-03-14 17:39:57 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-03-14 18:36:20 INFO  Sample Test:24 - *************Started SampleTestCase001*************
+  2022-03-14 18:36:24 INFO  Sample Test:34 - ****************Checking Response Body****************
+  2022-03-14 18:36:24 INFO  Sample Test:54 - **************Checking Response Time**************
+  2022-03-14 18:36:24 INFO  Sample Test:56 - Response Time is 2299
+  2022-03-14 18:36:24 WARN  Sample Test:58 - Response time is greater than 2000
+  2022-03-14 18:36:24 INFO  Sample Test:68 - ***************Status Line Verification Strated***********
+  2022-03-14 18:36:24 INFO  Sample Test:44 - **************Status Code verification Test Started***********
+  2022-03-14 18:36:24 INFO  Sample Test:46 - The status code is200
+  2022-03-14 18:36:24 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-03-14 18:38:09 INFO  Sample Test:24 - *************Started SampleTestCase001*************
+  2022-03-14 18:38:13 INFO  Sample Test:34 - ****************Checking Response Body****************
+  2022-03-14 18:38:13 INFO  Sample Test:54 - **************Checking Response Time**************
+  2022-03-14 18:38:13 INFO  Sample Test:56 - Response Time is 2698
+  2022-03-14 18:38:13 WARN  Sample Test:58 - Response time is greater than 2000
+  2022-03-14 18:38:13 INFO  Sample Test:68 - ***************Status Line Verification Strated***********
+  2022-03-14 18:38:13 INFO  Sample Test:44 - **************Status Code verification Test Started***********
+  2022-03-14 18:38:13 INFO  Sample Test:46 - The status code is200
+  2022-03-14 18:38:13 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-03-14 18:44:58 INFO  Sample Test:24 - *************Started SampleTestCase001*************
+  2022-03-14 18:45:03 INFO  Sample Test:34 - ****************Checking Response Body****************
+  2022-03-14 18:45:03 INFO  Sample Test:54 - **************Checking Response Time**************
+  2022-03-14 18:45:03 INFO  Sample Test:56 - Response Time is 2346
+  2022-03-14 18:45:03 WARN  Sample Test:58 - Response time is greater than 2000
+  2022-03-14 18:45:03 INFO  Sample Test:68 - ***************Status Line Verification Strated***********
+  2022-03-14 18:45:03 INFO  Sample Test:44 - **************Status Code verification Test Started***********
+  2022-03-14 18:45:03 INFO  Sample Test:46 - The status code is200
+  2022-03-14 18:45:03 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-03-14 18:50:02 INFO  Sample Test:24 - *************Started SampleTestCase001*************
+  2022-03-14 18:50:07 INFO  Sample Test:34 - ****************Checking Response Body****************
+  2022-03-14 18:50:07 INFO  Sample Test:54 - **************Checking Response Time**************
+  2022-03-14 18:50:07 INFO  Sample Test:56 - Response Time is 2541
+  2022-03-14 18:50:07 WARN  Sample Test:58 - Response time is greater than 2000
+  2022-03-14 18:50:07 INFO  Sample Test:68 - ***************Status Line Verification Strated***********
+  2022-03-14 18:50:07 INFO  Sample Test:44 - **************Status Code verification Test Started***********
+  2022-03-14 18:50:07 INFO  Sample Test:46 - The status code is200
+  2022-03-14 18:50:07 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-03-14 18:50:58 INFO  Sample Test:24 - *************Started SampleTestCase001*************
+  2022-03-14 18:51:03 INFO  Sample Test:34 - ****************Checking Response Body****************
+  2022-03-14 18:51:03 INFO  Sample Test:54 - **************Checking Response Time**************
+  2022-03-14 18:51:03 INFO  Sample Test:56 - Response Time is 2548
+  2022-03-14 18:51:03 WARN  Sample Test:58 - Response time is greater than 2000
+  2022-03-14 18:51:03 INFO  Sample Test:68 - ***************Status Line Verification Strated***********
+  2022-03-14 18:51:03 INFO  Sample Test:44 - **************Status Code verification Test Started***********
+  2022-03-14 18:51:03 INFO  Sample Test:46 - The status code is200
+  2022-03-14 18:51:03 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-03-14 18:52:07 INFO  Sample Test:24 - *************Started SampleTestCase001*************
+  2022-03-14 18:52:12 INFO  Sample Test:34 - ****************Checking Response Body****************
+  2022-03-14 18:52:12 INFO  Sample Test:54 - **************Checking Response Time**************
+  2022-03-14 18:52:12 INFO  Sample Test:56 - Response Time is 2617
+  2022-03-14 18:52:12 WARN  Sample Test:58 - Response time is greater than 2000
+  2022-03-14 18:52:12 INFO  Sample Test:68 - ***************Status Line Verification Strated***********
+  2022-03-14 18:52:12 INFO  Sample Test:44 - **************Status Code verification Test Started***********
+  2022-03-14 18:52:12 INFO  Sample Test:46 - The status code is200
+  2022-03-14 18:52:12 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-03-14 18:53:07 INFO  Sample Test:24 - *************Started SampleTestCase001*************
+  2022-03-14 18:53:12 INFO  Sample Test:34 - ****************Checking Response Body****************
+  2022-03-14 18:53:12 INFO  Sample Test:54 - **************Checking Response Time**************
+  2022-03-14 18:53:12 INFO  Sample Test:56 - Response Time is 2741
+  2022-03-14 18:53:12 WARN  Sample Test:58 - Response time is greater than 2000
+  2022-03-14 18:53:12 INFO  Sample Test:68 - ***************Status Line Verification Strated***********
+  2022-03-14 18:53:12 INFO  Sample Test:44 - **************Status Code verification Test Started***********
+  2022-03-14 18:53:12 INFO  Sample Test:46 - The status code is200
+  2022-03-14 18:53:12 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  2022-03-14 18:54:45 INFO  Sample Test:24 - *************Started SampleTestCase001*************
+  2022-03-14 18:54:51 INFO  Sample Test:34 - ****************Checking Response Body****************
+  2022-03-14 18:54:51 INFO  Sample Test:54 - **************Checking Response Time**************
+  2022-03-14 18:54:51 INFO  Sample Test:56 - Response Time is 3312
+  2022-03-14 18:54:51 WARN  Sample Test:58 - Response time is greater than 2000
+  2022-03-14 18:54:51 INFO  Sample Test:68 - ***************Status Line Verification Strated***********
+  2022-03-14 18:54:51 INFO  Sample Test:44 - **************Status Code verification Test Started***********
+  2022-03-14 18:54:51 INFO  Sample Test:46 - The status code is200
+  2022-03-14 18:54:51 INFO  Sample Test:38 - *****************Test Execution is Completed******************
+  

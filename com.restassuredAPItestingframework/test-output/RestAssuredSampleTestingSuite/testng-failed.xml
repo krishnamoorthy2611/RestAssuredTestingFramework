@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [RestAssuredSampleTestingSuite]">
+  <test name="Rest Assured Test(failed)">
+    <classes>
+      <class name="com.testCases.SamplePutTestCase003">
+        <methods>
+          <include name="checkStausCode"/>
+          <include name="checkStatusLine"/>
+          <include name="setup"/>
+          <include name="putReqeuestTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.testCases.SamplePutTestCase003 -->
+      <class name="com.testCases.SamplePostTestCase002">
+        <methods>
+          <include name="setup"/>
+          <include name="getAllUsers"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.testCases.SamplePostTestCase002 -->
+      <class name="com.testCases.SampleDeleteTestCase004">
+        <methods>
+          <include name="setup"/>
+          <include name="checkResponse"/>
+          <include name="checkStausCode"/>
+          <include name="checkStatusLine"/>
+          <include name="tearDown"/>
+          <include name="deleteTestCase"/>
+        </methods>
+      </class> <!-- com.testCases.SampleDeleteTestCase004 -->
+      <class name="com.testCases.SampleGetTestCase001">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="getAllUsers"/>
+        </methods>
+      </class> <!-- com.testCases.SampleGetTestCase001 -->
+    </classes>
+  </test> <!-- Rest Assured Test(failed) -->
+</suite> <!-- Failed suite [RestAssuredSampleTestingSuite] -->
